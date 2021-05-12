@@ -7,7 +7,7 @@
     to help RISC OS user navigate the pitfalls of using Python
     THis is neccessary as the Python RISC OS is raw and largely 
     untested. A lot of things do not work as yet.
-- 📫 How to reach me 
+- 📫 How to reach me - tba
 
 <!---
 riscman/riscman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
