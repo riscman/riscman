@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @riscman
 - 👀 I’m interested in learning how to use Git
-    to help me lauch a collaborative project 
-    to explore Python using RISC OS
+    to help me explore Python using RISC OS
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on writing a web based user guide 
     to help RISC OS users navigate the pitfalls of using Python
