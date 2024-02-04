@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @riscman
-- 👀 I’m interested in learning how to use Git
-    to help me explore Python using RISC OS
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on writing a web based user guide 
-    to help RISC OS users navigate the pitfalls of using Python
-    This is neccessary as the Python RISC OS is raw and largely 
-    untested. A lot of things do not work as yet.
-- 📫 How to reach me - tba
+- 👀 I’m learning how to use Git to manage changes 
+    to three machines with different OSes. Namely:
+    RISC OS MacOS and Linux 
+- 🌱 I’m currently testing the RISC OS python Toolbox
+- 💞️ I’m  writing a web based user guide 
+    to help with using Python on RISC OS,
+    which still hasn't seen a lot of testing.
+    
+- 📫 How to reach me - jriscman@gmail.com
 
 <!---
 riscman/riscman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
