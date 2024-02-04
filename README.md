@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riscman
 - 👀 I’m learning how to use Git to manage changes 
     to three machines with different OSes. Namely:
-    RISC OS MacOS and Linux 
+    RISC OS, MacOS, and Linux 
 - 🌱 I’m currently testing the RISC OS python Toolbox
 - 💞️ I’m  writing a web based user guide 
     to help with using Python on RISC OS,
